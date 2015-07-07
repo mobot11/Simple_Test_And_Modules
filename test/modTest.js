@@ -1,5 +1,5 @@
 var expect = require('chai').expect;
-var greet = require("../greet.js");
+var greet = require("../greet.js").greet;
 
 describe('greet', function() {
 	it('should return hello + "name"', function () {
