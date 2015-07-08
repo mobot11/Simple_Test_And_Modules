@@ -1,0 +1,32 @@
+{
+  "name": "Simple_Test_and_Modules",
+  "version": "0.1.0",
+  "description": "First Dev Accelerator Project",
+  "main": "greet.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.2",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobot11/Simple_Test_And_Modules.git"
+  },
+  "author": "Dylan Moberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobot11/Simple_Test_And_Modules/issues"
+  },
+  "homepage": "https://github.com/mobot11/Simple_Test_And_Modules"
+}
